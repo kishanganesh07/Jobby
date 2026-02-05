@@ -89,6 +89,8 @@ const LoginPage=()=> {
             Login
           </button>
         </form>
+         <p className="text-white text-[10px]">UserName:rahul</p>
+              <p className="text-white text-[10px]">Password:rahul@2021</p> 
       </div>
     </div>
   );
